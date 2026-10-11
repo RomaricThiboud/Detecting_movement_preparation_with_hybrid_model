@@ -1,8 +1,8 @@
 # **** path ************************************************************
-path_data = 'N:/impact/Marine/DATA/Exp1_Agency'
-path_analyzed_data = 'C:/Users/Romar/Documents/PhD_Agency/DATA/data_analyzed'
-path_output = 'C:/Users/Romar/Documents/PhD_Agency/DATA/decoding_output'
-path_figures = 'C:/Users/Romar/Documents/PhD_Agency/DATA/data_analyzed/figures/'
+path_data = 'path/to/raw/data/'
+path_analyzed_data = 'path/to/epoched/data/'
+path_output = 'path/to/decoding/output/'
+path_figures = 'path/to/figures/folder/'
 
 # **** subjects ************************************************************
 subjects_id = ['s0986', 's0987', 's0989', 's0990', 's0991', 's0992', 's0993', 's0994',
